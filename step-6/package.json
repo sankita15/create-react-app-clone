@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sankita15/create-react-app-clone/issues"
   },
-  "homepage": "https://github.com/sankita15/create-react-app-clone#readme"
+  "homepage": "https://github.com/sankita15/create-react-app-clone#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
