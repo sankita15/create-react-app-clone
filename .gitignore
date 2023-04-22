@@ -1,3 +1,6 @@
 .idea
+
 /step-6/node_modules
+
 /step-7/node_modules
+/step-7/dist
