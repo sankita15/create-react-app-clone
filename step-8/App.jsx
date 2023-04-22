@@ -1,16 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const Heading1 = () => <h1>Heading 1</h1>
-const Heading2 = () => <h1>Heading 2</h1>
-const Heading3 = () => <h1>Heading 3</h1>
+const Heading = () => <h1>Heading 1</h1>
+const Body = () => <p>You have successfully create create-react-app/create-react-vite clone :)</p>
+const Footer = () => <p>© All by your own</p>
 
 const Container = () => {
     return (
         <div>
-            <Heading1 />
-            <Heading2 />
-            <Heading3 />
+            <Heading />
+            <Body />
+            <Footer />
         </div>
     )
 }
