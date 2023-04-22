@@ -1,0 +1,19 @@
+{
+  "name": "create-react-app-clone",
+  "version": "1.0.0",
+  "description": "Build your own version of create-react-app library",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/sankita15/create-react-app-clone.git"
+  },
+  "author": "Ankita Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankita15/create-react-app-clone/issues"
+  },
+  "homepage": "https://github.com/sankita15/create-react-app-clone#readme"
+}
